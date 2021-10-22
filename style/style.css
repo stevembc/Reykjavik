@@ -385,3 +385,9 @@ footer ul {
         flex-direction: column;
     }
 }
+@media screen and ( max-width: 650px ) {
+    #input {
+        display: flex;
+        flex-direction: column;
+    }
+}
