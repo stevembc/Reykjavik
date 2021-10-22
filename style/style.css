@@ -330,6 +330,7 @@ footer ul {
 /* Animation */
 .grow {
     transition: all .25s ease-in-out;
+    cursor: pointer;
 }
 .grow:hover {
     transform: scale(1.1);
